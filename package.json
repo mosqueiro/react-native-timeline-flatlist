@@ -1,6 +1,6 @@
 {
   "name": "@zcorefinance/react-native-timeline-flatlist",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Timeline component for React Native",
   "main": "lib/index.js",
   "scripts": {
